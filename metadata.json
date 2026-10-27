@@ -1,0 +1,6 @@
+{
+  "name": "TWIN ATHENA — Websites & WhatsApp Automation",
+  "description": "High-converting bespoke websites and intelligent WhatsApp sales chat flows for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
